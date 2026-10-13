@@ -1,0 +1,45 @@
+{
+  "brand": "ScaleBridge",
+  "typography": {
+    "family": "system sans",
+    "numbers": "tabular where supported",
+    "hero": 44,
+    "title": 32,
+    "body": 16,
+    "caption": 12
+  },
+  "radius": {
+    "panel": 24,
+    "hero": 28,
+    "button": 14
+  },
+  "light": {
+    "background": "#F2F7F5",
+    "surface": "#FFFFFF",
+    "ink": "#101E2D",
+    "muted": "#49645D",
+    "accent": "#087F6F",
+    "onAccent": "#FFFFFF",
+    "border": "#C9DAD4",
+    "danger": "#BA1A1A",
+    "dangerTint": "#FFEDEA"
+  },
+  "dark": {
+    "background": "#0D1823",
+    "surface": "#162633",
+    "ink": "#F4FAF8",
+    "muted": "#A6BCB8",
+    "accent": "#5DE3C2",
+    "onAccent": "#092A23",
+    "border": "#344D52",
+    "danger": "#FFB4AB",
+    "dangerTint": "#4B2728"
+  },
+  "icons": {
+    "source": "Lucide 1.52.0",
+    "grid": 24,
+    "stroke": 2,
+    "cap": "round",
+    "labels": "visible text; decorative icon excluded from accessibility tree"
+  }
+}

@@ -1,0 +1,4 @@
+* text=auto
+examples/demo/*.csv -text whitespace=cr-at-eol
+*.png binary
+*.zip binary

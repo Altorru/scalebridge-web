@@ -1,0 +1,24 @@
+ScaleBridge — kit de démonstration gratuit, entièrement fictif
+
+Aucune installation Android nécessaire pour lire ces fichiers.
+Ce kit ne contient ni application, ni données de participant.
+
+1. Ouvrir input-fr.csv comme texte ou dans un tableur (UTF-8, séparateur ;).
+   Six lignes : 3 nouvelles mesures, 1 doublon, 1 conflit, 1 poids invalide.
+2. Comparer output.csv : 3 mesures, dates UTC, kg, masse grasse facultative.
+   La première valeur est conservée en cas de conflit au même instant.
+3. Ouvrir output.json : schéma version 1, masse grasse absente = null.
+4. Consulter result.json pour les comptes vérifiés par le moteur Kotlin.
+   Réimporter le même fichier ajoute 0 mesure (4 doublons, 1 conflit).
+5. Si vous le souhaitez, remplir feedback.txt et envoyer uniquement ce texte
+   à contact@hugoviaud.fr. Ne joindre aucun CSV réel, mesure, capture, nom
+   de fichier, en-tête de fabricant ou identifiant. Un retour n'inscrit
+   pas au pilote ; il ne vaut pas consentement à un test ou témoignage.
+
+La démo web montre ces résultats fixes ; elle ne traite pas vos fichiers.
+Le candidat Android reste un pilote gratuit hors Google Play.
+Un export réussi ne garantit pas son acceptation par un logiciel tiers.
+Démo : https://scalebridge.altorru.fr/demo.html
+Pilote volontaire : https://scalebridge.altorru.fr/pilot.html
+Confidentialité : https://scalebridge.altorru.fr/privacy.html
+FILES.json permet de vérifier l'intégrité SHA-256 des fichiers du kit.

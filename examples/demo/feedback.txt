@@ -1,0 +1,16 @@
+Objet : ScaleBridge — retour volontaire sur la démo fictive
+Destinataire : contact@hugoviaud.fr
+
+Ce retour concerne la démo fictive, pas un test de mon fichier réel.
+CSV résultat téléchargé : oui / non / pas essayé
+JSON résultat téléchargé : oui / non / pas essayé
+Compréhension du doublon : claire / à expliquer
+Compréhension du conflit : claire / à expliquer
+Étape bloquante : aucune / lecture / vérification / téléchargement
+Demande : aucune / explication sur la démo / informations sur le pilote
+
+Effacer les réponses non choisies. Ne joindre ni fichier réel, ni mesure,
+ni capture, ni nom de fichier, en-tête ou identifiant personnel.
+L'adresse d'expédition est visible par le support. L'envoi est facultatif ;
+il ne vaut pas inscription au pilote, consentement à un test ou témoignage.
+Informations et droits : https://scalebridge.altorru.fr/privacy.html

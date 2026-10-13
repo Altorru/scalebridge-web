@@ -1,0 +1,29 @@
+{
+  "synthetic_only": true,
+  "input_rows": 6,
+  "valid": 5,
+  "rejected": 1,
+  "added": 3,
+  "duplicates": 1,
+  "conflicts": 1,
+  "retry_added": 0,
+  "retry_duplicates": 4,
+  "retry_conflicts": 1,
+  "csv_roundtrip": true,
+  "json_schema_verified": true,
+  "csv_line_endings": "CRLF",
+  "files": [
+    {
+      "path": "examples/demo/input-fr.csv",
+      "sha256": "d24fe45224af13253412d00cbed4171767117ed396aface0a1108a8ff3127e05"
+    },
+    {
+      "path": "examples/demo/output.csv",
+      "sha256": "52f1086a4396ec571de4a9cd5ecbf43bd9d4f425f142bde348c83af5cdfc345a"
+    },
+    {
+      "path": "examples/demo/output.json",
+      "sha256": "b905ce77a68662f4b8b0261fd303639e355966259ab3e7d4a06787b3cf425c38"
+    }
+  ]
+}

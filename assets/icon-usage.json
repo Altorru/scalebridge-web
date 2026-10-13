@@ -1,0 +1,86 @@
+{
+  "source": "Lucide 1.52.0",
+  "grid": 24,
+  "stroke": 2,
+  "decorative_with_visible_label": true,
+  "icons": [
+    {
+      "icon": "chart-line",
+      "usage": "Onglet Mesures, dernière mesure, évolution",
+      "reason": "Une série de mesures ; évite une horloge ambiguë."
+    },
+    {
+      "icon": "file-up",
+      "usage": "Import, choisir un CSV, état vide",
+      "reason": "Un fichier entre dans l’application ; aucun lien avec un upload réseau."
+    },
+    {
+      "icon": "list-checks",
+      "usage": "Journal d’import, journal vide",
+      "reason": "Liste des opérations confirmées et de leurs comptes."
+    },
+    {
+      "icon": "sliders-horizontal",
+      "usage": "Options et préférences",
+      "reason": "Réglages d’apparence et de langue."
+    },
+    {
+      "icon": "hard-drive",
+      "usage": "Stockage local et contrôle des données",
+      "reason": "Décrit le stockage sur cet appareil, sans prétendre à une certification."
+    },
+    {
+      "icon": "columns-3",
+      "usage": "Association des colonnes CSV",
+      "reason": "Rend visible le travail sur des colonnes."
+    },
+    {
+      "icon": "clipboard-check",
+      "usage": "Vérification des lignes et aperçu",
+      "reason": "Étape de revue avant confirmation, pas garantie que toutes les lignes sont valides."
+    },
+    {
+      "icon": "check",
+      "usage": "Confirmer l’import",
+      "reason": "Validation explicite par l’utilisateur."
+    },
+    {
+      "icon": "file-down",
+      "usage": "Export CSV/JSON et téléchargement du CSV d’exemple",
+      "reason": "Un fichier sort vers l’emplacement choisi."
+    },
+    {
+      "icon": "flask-conical",
+      "usage": "Exemple fictif",
+      "reason": "Signale le caractère de démonstration."
+    },
+    {
+      "icon": "chevron-down",
+      "usage": "Choix de colonne, unité, thème et langue",
+      "reason": "Indique un menu de sélection."
+    },
+    {
+      "icon": "trash-2",
+      "usage": "Suppression des données",
+      "reason": "Action destructive, couleur d’erreur et confirmation conservées."
+    }
+  ],
+  "web_controls": [
+    {
+      "icon": "hard-drive",
+      "element": "Stockage privé local"
+    },
+    {
+      "icon": "clipboard-check",
+      "element": "Aperçu avant import"
+    },
+    {
+      "icon": "file-down",
+      "element": "Export CSV / JSON et téléchargements"
+    },
+    {
+      "icon": "trash-2",
+      "element": "Suppression des données de l’application"
+    }
+  ]
+}
